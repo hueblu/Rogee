@@ -1,4 +1,3 @@
-
 pub struct Rect {
     pub x1: i32,
     pub y1: i32,
